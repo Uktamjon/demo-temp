@@ -6,10 +6,7 @@ on this their chosen battle field
 form the lines
 shield by shield
 
-some content here
-and here
-and here!
-
-Text for ammend
-more text for ammend
-last text for ammend
+text 1
+text 2
+text 3
+text 4
